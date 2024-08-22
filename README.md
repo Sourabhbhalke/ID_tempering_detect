@@ -1,9 +1,15 @@
 # ID_tempering_detect
 ID Tampering Detection Online Tool
 Recent Updates
+
 Updated requirements.txt to address compatibility issues.
+
 Added runtime.txt to specify Python version (3.8.10).
+
 Adjusted library versions for compatibility with TensorFlow 2.4.0 and other dependencies.
+
+
+
 Steps to Run Application
 1. Create a Copy of the Project
 
